@@ -1,0 +1,16 @@
+Flask==0.12.2
+
+gunicorn==19.7.1
+
+google-cloud-vision==0.29.0
+google-api-python-client==1.6.4
+
+google-auth==1.2.1
+
+google-auth-httplib2==0.0.3
+
+apiclient==1.0.3
+setuptools==32.1.0
+botbuilder-core==4.0.0a6
+botbuilder-schema==4.0.0a6
+botframework-connector==4.0.0a6
